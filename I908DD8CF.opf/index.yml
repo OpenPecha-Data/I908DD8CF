@@ -1,0 +1,19 @@
+id: 99bc3c127d8a4fd2a90b377523c44107
+annotation_type: index
+revision: '00001'
+annotations:
+  bb6e31f217544b6b823d69dae6f82250:
+    base: 12CC.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 6
+    - title: Preface
+      span:
+        start: 7
+        end: 1689
+    - title: Colophon
+      span:
+        start: 1690
+        end: 1710

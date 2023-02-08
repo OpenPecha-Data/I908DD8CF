@@ -1,0 +1,16 @@
+id: I908DD8CF
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:07:38.519214
+last_modified: 2023-02-08 15:07:38.519344
+source_metadata:
+  title: 'RK: Gaṅgottaraparipṛcchā'
+  language: zh
+bases:
+  12CC:
+    base_file: 12CC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
